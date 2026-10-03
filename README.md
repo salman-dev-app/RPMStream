@@ -279,7 +279,7 @@ direct-link access, the completion screen simply shows fewer buttons.
 ### 1 · Bare metal / VPS
 
 ```bash
-git clone https://github.com/salman-dev-app/RPMStream.git
+git clone https://github.com/ryoaonetsuki/RPMStream.git
 cd RPMStream
 
 python3 -m venv .venv && source .venv/bin/activate
@@ -418,7 +418,7 @@ python -m pytest -q
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/🐙%20GitHub-salman--dev--app-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/salman-dev-app)
+[![GitHub](https://img.shields.io/badge/🐙%20GitHub-salman--dev--app-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ryoaonetsuki)
 [![Telegram](https://img.shields.io/badge/💬%20Telegram-@Otakuosenpai-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Otakuosenpai)
 [![Channel](https://img.shields.io/badge/📢%20Channel-salmandevapp-229ED9?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/salmandevapp)
 [![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-vrozek.xyz-6c5ce7?style=for-the-badge&logo=aboutdotme&logoColor=white)](https://profile.vrozek.xyz/)
